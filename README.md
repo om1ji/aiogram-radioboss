@@ -1,4 +1,5 @@
 # telegram-radioboss
+![image](https://i.ibb.co/PxgbgYH/github-jpg.png)
 Telegram Bot to control [RadioBOSS](https://manual.djsoft.net/radioboss/en/index.html?remote_controlapi.htm) streaming software
 
 ## Requirements:
