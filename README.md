@@ -1,5 +1,5 @@
 # telegram-radioboss
-Telegram Bot to control RadioBOSS streaming software
+Telegram Bot to control [RadioBOSS](https://manual.djsoft.net/radioboss/en/index.html?remote_controlapi.htm) streaming software
 
 ## Requirements:
 
