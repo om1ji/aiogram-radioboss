@@ -8,3 +8,5 @@ Available commands:
 ```/info``` - shows current track plaiyng in RadioBOSS and current amount of listeners of your audiostream
 
 ```/next``` - switches track to next in playlist
+
+Run with ```python main.py```
